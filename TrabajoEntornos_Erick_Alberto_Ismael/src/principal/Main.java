@@ -9,6 +9,10 @@ public class Main {
 		suma1.calcularSuma(2, 4);
 		
 		//Comentario: Paso 3 realizado
+		
+		Resta r = new Resta();
+		r.resta(6, 1);
+		//Paso 7 realizado
 	}
 
 }
